@@ -1,0 +1,1 @@
+alert("Read This!! \nThese are your E CARDS \nClick OK to continue !!")
